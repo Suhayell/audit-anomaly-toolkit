@@ -10,3 +10,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Personal learning notebooks (kept on this computer only)
+learning/
+
+# Temporary folder, safe to delete
+.trash_envs/
